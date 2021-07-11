@@ -1,4 +1,4 @@
-<!-- <div align=center>
+<div align=center>
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=FFC0CB&height=350&section=header&text=✔️merge%20to%20dain&fontSize=65)
 
@@ -17,7 +17,7 @@
 
 ## IT's ME!
 <a href="https://www.instagram.com/leeingong/"><img src="https://img.shields.io/badge/Instagram-DD2A78?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/leeingong/"/></a>&nbsp;&nbsp;
-<a href="https://github.com/leeingong?tab=overview&from=2021-01-01&to=2021-01-09"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Github&logoColor=white&link=https://www.instagram.com/leeingong/"/></a>
+<a href="https://github.com/leeingong?tab=overview&from=2021-01-01&to=2021-01-09"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Github&logoColor=white&link=https://www.github.com/leeingong/"/></a>
 
 ## Profile
 ### Education
