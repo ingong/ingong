@@ -1,6 +1,6 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=0E57E2&height=350&section=header&text=✔️dive%20into%20insong&fontSize=65)
+![header](https://capsule-render.vercel.app/api?type=wave&color=73ACFF&height=350&section=header&text=Dive%20Into%20Insong&fontSize=65)
 
 <br>
 
