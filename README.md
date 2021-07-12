@@ -4,7 +4,7 @@
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ingong&count_private=true&show_icons=true&theme=buefy) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ingong&count_private=true&show_icons=true&theme=buefy)
 
 ### 💻Tech Stack📚
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a> &nbsp;&nbsp;
