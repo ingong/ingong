@@ -21,20 +21,21 @@
 
 <br>
 
-## Profile
-### Education
-2014.03 ~ : KyungHee University, Civil Engineering<br/>
-2021.03 ~ : Korea University, Psychology
 
-### Projects
+## Education
+2021.03 ~ : Korea University, Psychology<br/>
+2014.03 ~ : KyungHee University, Civil Engineering<br/><br/>
+
+
+## Projects
 ### 2021
-- Front-End Developer - [Takeus](https://github.com/memoryparrot/yesjam-server) [진행중] 
-- Front-End Developer - [기억무새(SOPKATHON)](https://github.com/memoryparrot/yesjam-server) : 센스있는 소통을 위한 멘트 추천 서비스
+- Front-End Developer - [Takeus](https://github.com/TAKE-US/TAKEUS-FRONT) [진행중] 
+- Front-End Developer - [기억무새(SOPKATHON)](https://github.com/memoryparrot/nojam-client) : 센스있는 소통을 위한 멘트 추천 서비스
 - Front-End & Back-End Developer - [Dowith](https://github.com/DOWITH-Developer/DOWITH) : 함께 챌린지를 생성하고 완수하는 서비스
-- Front-End DEveloper - [Vote47](https://github.com/vote47-Developer/vote47) : 서울 시장 재보궐 후보자 추천 퀴즈앱
+- Front-End DEveloper - [Vote47](https://github.com/vote47-Developer/vote47) : 서울 시장 재보궐 후보자 추천 퀴즈앱<br/><br/>
 
 
-### Experience
+## Experience
 ### 2021
 - 28th SOPT Server Development
 - Naver Boost Course CS50 2nd [Lead Booster]
