@@ -24,7 +24,7 @@
 
 ## Education
 2021.03 ~ : Korea University, Psychology<br/>
-2014.03 ~ : KyungHee University, Civil Engineering<br/><br/>
+2014.03 ~ 2018.02 : KyungHee University, Civil Engineering<br/><br/>
 
 
 ## Projects
