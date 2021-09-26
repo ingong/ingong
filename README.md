@@ -21,7 +21,7 @@
 
 ## Projects
 ### 2021
-- **Front-End Developer - [Takeus](https://github.com/TAKE-US/TAKEUS-FRONT) [진행중] **
+- **Front-End Developer - [Takeus](https://github.com/TAKE-US/TAKEUS-FRONT) [진행중]**
 - **Front-End Developer - [기억무새(SOPKATHON)](https://github.com/memoryparrot/nojam-client) : 센스있는 소통을 위한 멘트 추천 서비스**
 - **Front-End Developer - [Dowith](https://github.com/DOWITH-Developer/DOWITH) : 함께 챌린지를 생성하고 완수하는 서비스**
 - **Front-End DEveloper - [Vote47](https://github.com/vote47-Developer/vote47) : 서울 시장 재보궐 후보자 추천 퀴즈앱<br/><br/>**
