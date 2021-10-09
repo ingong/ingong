@@ -32,7 +32,7 @@
 - **Naver Boostcamp Web-Mobile Membership 6th**
 - **Naver Boostcamp Web-Mobile Challenge 6th**
 - **Naver Boostcourse CS50 2nd [Lead Booster]**
-- **28th SOPT Server Development**
+- **28th SOPT Web Development**
 
 ### 2020
 - **14th Pirogramming**
