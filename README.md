@@ -1,41 +1,63 @@
-<div align=center>
+# leeinsong
+ <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ingong/hit-counter&count_bg=%23FFB100&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=73ACFF&height=300&section=header&text=Dive%20Into%20Insong&fontSize=65)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ingong&count_private=true&show_icons=true&theme=buefy)
+## 🥑 Profile
 
-### 💻 Tech Stack 📚
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white"/></a>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/></a> &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/></a>&nbsp;&nbsp;
-</a>&nbsp;&nbsp;
+* leeinsong
+* Korea University / Psychology Major
+* Web front-end Enginner
 <br/>
-</div>
+
+## 🛠️ Tech Stack 🛠️
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/TypeScript-3776AB?style=flat-square&logo=Typescript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=styled components&logoColor=white"/></a>
+<br>
+<img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
+<br>
+<img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
+<br> 
+<br>
+
+## 🚎 Projects / Education / Activities
+
+<h3> 💻 Project 💻 </h3>
+
+|기간|프로젝트명|개인/팀|프로젝트 소개|깃허브 url|배포 url|
+|---|---|---|---|---|---|
+|21.10.25 ~ 진행 중|Hyupup|팀|팀 프로젝트를 위한 협업툴 |<a href="https://github.com/boostcampwm-2021/WEB23-HyupUp">레포지토리</a>|<a href="https://hyupup.ml/">배포링크</a>|
+|21.07.15 ~ 진행 중|TakeUS|팀|해외 유기견 이동 봉사자를 위한 플랫폼|<a href="https://github.com/TAKE-US/TAKEUS-FRONT">레포지토리</a>|<a href="https://take--us.web.app/">배포링크</a>|
+|21.02.25 ~ 21.04.02|Vote47|팀|서울 시장 재보궐 선거 후보자 추천 테스트|<a href="https://github.com/vote47-Developer/vote47">레포지토리</a>|<a href="">서비스 종료</a>|
 
 <br>
 
+<h3> 📓 Education 📓 </h3>
 
-## Education
-- **2021.03 ~ : Korea University, Psychology<br/>**
-- **2014.03 ~ 2018.02 : KyungHee University, Civil Engineering**<br/><br/>
-
-
-## Projects
-### 2021
-- **Front-End Developer - [Takeus](https://github.com/TAKE-US/TAKEUS-FRONT) [진행중]**
-- **Front-End Developer - [기억무새(SOPKATHON)](https://github.com/memoryparrot/nojam-client) : 센스있는 소통을 위한 멘트 추천 서비스**
-- **Front-End Developer - [Dowith](https://github.com/DOWITH-Developer/DOWITH) : 함께 챌린지를 생성하고 완수하는 서비스**
-- **Front-End DEveloper - [Vote47](https://github.com/vote47-Developer/vote47) : 서울 시장 재보궐 후보자 추천 퀴즈앱<br/><br/>**
-
-
-## Experience
-### 2021
-- **Naver Boostcamp Web-Mobile Membership 6th**
-- **Naver Boostcamp Web-Mobile Challenge 6th**
-- **Naver Boostcourse CS50 2nd [Lead Booster]**
-- **28th SOPT Web Development**
-
-### 2020
-- **14th Pirogramming**
+|교육기관명|과정명|기간|교육내용|
+|---|---|---|---|
+|<a href="https://www.connect.or.kr/">네이버 커넥트재단</a>|<a href="https://boostcamp.connect.or.kr/program_wm.html">부스트캠프 웹·모바일 6기 멤버십</a>|21.08.23 ~ 진행 중|학습 스프린트, 그룹 프로젝트|
+|<a href="https://www.connect.or.kr/">네이버 커넥트재단</a>|<a href="https://boostcamp.connect.or.kr/program_wm.html">부스트캠프 웹·모바일 6기 챌린지</a>|21.07.19 ~ 21.08.13|자바스크립트, CS 지식, 릴레이 프로젝트|
+|<a href="https://www.connect.or.kr/">네이버 커넥트재단</a>|<a href="https://boostcamp.connect.or.kr/program_wm.html">부스트코스 웹·모바일 6기 챌린지</a>|20.12.28 ~ 21.02.15|메모리, 자료구조 등 CS 기본 지식|
 
 <br>
 
+<h3> 🗂️ Activities 🗂️ </h3>
+|동아리명|기간|내용|
+|---|---|---|
+|SOPT|21.03.02 ~ 21.07.30 |React|
+|<a href="http://sopt.org/wp/">SOPT</a>|21.03.02 ~ 21.07.30|JS, React, 디자이너 기획자와의 협업|
+|<a href="https://pirogramming.com/">피로그래밍</a>|20.12.25 ~ 21.02.11|Django, JS, 웹어플리케션 배포|
+
+<br>
+
+## 📚 Tech Blog / Mail
+  <a href="https://ingong.github.io/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://shinhyogeun.tistory.com/"/></a>
+  <a href="mailto:insong1216@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=tls1gy2rms3@gmail.com"/></a>
+
+## 🏷️ Cards
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ingong&count_private=true&show_icons=true&theme=buefy)
