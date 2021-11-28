@@ -42,7 +42,7 @@
 |---|---|---|---|
 |<a href="https://www.connect.or.kr/">네이버 커넥트재단</a>|<a href="https://boostcamp.connect.or.kr/program_wm.html">부스트캠프 웹·모바일 6기 멤버십</a>|21.08.23 ~ 진행 중|학습 스프린트, 그룹 프로젝트|
 |<a href="https://www.connect.or.kr/">네이버 커넥트재단</a>|<a href="https://boostcamp.connect.or.kr/program_wm.html">부스트캠프 웹·모바일 6기 챌린지</a>|21.07.19 ~ 21.08.13|자바스크립트, CS 지식, 릴레이 프로젝트|
-|<a href="https://www.connect.or.kr/">네이버 커넥트재단</a>|<a href="https://boostcamp.connect.or.kr/program_wm.html">부스트코스 웹·모바일 6기 챌린지</a>|20.12.28 ~ 21.02.15|메모리, 자료구조 등 CS 기본 지식|
+|<a href="https://www.connect.or.kr/">네이버 커넥트재단</a>|<a href="https://www.boostcourse.org/study-cs50-2nd/">CS50 코칭스터디 2기 </a>|20.12.28 ~ 21.02.15|메모리, 자료구조 등 CS 기본 지식|
 
 <br>
 
