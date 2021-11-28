@@ -6,7 +6,6 @@
 * leeinsong
 * Korea University / Psychology Major
 * Web front-end Enginner
-<br/>
 
 ## 🛠️ Tech Stack 🛠️
 
@@ -21,11 +20,12 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
 <br> 
-<br>
 
-## 🚎 Projects / Education / Activities
+## 📚 Tech Blog / Mail
+  <a href="https://ingong.github.io/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://shinhyogeun.tistory.com/"/></a>
+  <a href="mailto:insong1216@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=tls1gy2rms3@gmail.com"/></a>
 
-<h3> 💻 Project 💻 </h3>
+## 💻 Projects 
 
 |기간|프로젝트명|개인/팀|프로젝트 소개|깃허브 url|배포 url|
 |---|---|---|---|---|---|
@@ -35,7 +35,9 @@
 
 <br>
 
-<h3> 📓 Education 📓 </h3>
+## 🗂️ Education / Activities
+
+<h3> Education </h3>
 
 |교육기관명|과정명|기간|교육내용|
 |---|---|---|---|
@@ -43,20 +45,15 @@
 |<a href="https://www.connect.or.kr/">네이버 커넥트재단</a>|<a href="https://boostcamp.connect.or.kr/program_wm.html">부스트캠프 웹·모바일 6기 챌린지</a>|21.07.19 ~ 21.08.13|자바스크립트, CS 지식, 릴레이 프로젝트|
 |<a href="https://www.connect.or.kr/">네이버 커넥트재단</a>|<a href="https://www.boostcourse.org/study-cs50-2nd/">CS50 코칭스터디 2기 </a>|20.12.28 ~ 21.02.15|메모리, 자료구조 등 CS 기본 지식|
 
-<br>
 
-<h3> 🗂️ Activities 🗂️ </h3>
+<h3>  Activities </h3>
+
 |동아리명|기간|내용|
 |---|---|---|
-|SOPT|21.03.02 ~ 21.07.30 |React|
 |<a href="http://sopt.org/wp/">SOPT</a>|21.03.02 ~ 21.07.30|JS, React, 디자이너 기획자와의 협업|
 |<a href="https://pirogramming.com/">피로그래밍</a>|20.12.25 ~ 21.02.11|Django, JS, 웹어플리케션 배포|
 
 <br>
-
-## 📚 Tech Blog / Mail
-  <a href="https://ingong.github.io/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://shinhyogeun.tistory.com/"/></a>
-  <a href="mailto:insong1216@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=tls1gy2rms3@gmail.com"/></a>
 
 ## 🏷️ Cards
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ingong&count_private=true&show_icons=true&theme=buefy)
