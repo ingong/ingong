@@ -29,10 +29,11 @@
 
 |기간|프로젝트명|개인/팀|프로젝트 소개|깃허브 url|배포 url|
 |---|---|---|---|---|---|
+|22.02.10 ~ 진행 중|TakeUS_Mobile|개인|TAKEUS 서비스 Mobile 버전 |<a href="https://github.com/ingong/TAKEUS-FRONT_MOBILE">레포지토리</a>|<a href="https://takeus-front-mobile.vercel.app/">배포링크
 |21.07.15 ~ 22.02.21|TakeUS|팀|해외 유기견 이동 봉사자를 위한 플랫폼|<a href="https://github.com/TAKE-US/TAKEUS-FRONT">레포지토리</a>|<a href="https://take--us.web.app/">배포링크</a>|
 |21.10.25 ~ 21.12.03|Hyupup|팀|팀 프로젝트를 위한 협업툴 |<a href="https://github.com/boostcampwm-2021/WEB23-HyupUp">레포지토리</a>|서비스 종료|
 |21.02.25 ~ 21.04.02|Vote47|팀|서울 시장 재보궐 선거 후보자 추천 테스트|<a href="https://github.com/vote47-Developer/vote47">레포지토리</a>|서비스 종료|
-
+|21.01.12 ~ 21.02.25|Dowith|팀|온라인 스터디를 위한 어플리케이션|<a href="https://github.com/DOWITH-Developer/DOWITH">레포지토리</a>|서비스 종료|
 <br>
 
 ## 🗂️ Education / Activities
@@ -50,7 +51,7 @@
 
 |동아리명|기간|내용|
 |---|---|---|
-|<a href="http://sopt.org/wp/">SOPT</a>|21.03.02 ~ 21.07.30|JS, React 학습, 비개발직군과의 협업을 통한 서비스 배포|
+|<a href="http://sopt.org/wp/">SOPT</a>|21.03.02 ~ 21.07.30|JS, React 학습, 비개발직군과 협업을 통한 서비스 배포|
 |<a href="https://kucc.co.kr/">고려대학교 중앙 컴퓨터 동아리 KUCC</a>|21.03.02 ~ 21.07.30|JavaScript 및 알고리즘 학습|
 |<a href="https://pirogramming.com/">피로그래밍</a>|20.12.25 ~ 21.02.11|Django, JS, 웹어플리케션 배포|
 
