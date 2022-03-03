@@ -3,9 +3,10 @@
 
 ## 🥑 Profile
 
-* leeinsong
 * Korea University / Psychology Major
 * Web front-end Enginner
+* [Resume](https://violet-router-2f7.notion.site/99d8dbb61e484ca4af273b90efa051e6)
+* [Portfolio](https://violet-router-2f7.notion.site/165783db437a49e0897a68b0a95dd920)
 
 ## 🛠️ Tech Stack 🛠️
 
