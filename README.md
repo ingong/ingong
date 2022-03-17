@@ -30,7 +30,7 @@
 
 |기간|프로젝트명|개인/팀|프로젝트 소개|깃허브 url|배포 url|
 |---|---|---|---|---|---|
-|22.02.10 ~ 진행 중|TakeUS_Mobile|개인|TAKEUS 서비스 Mobile 버전 |<a href="https://github.com/ingong/TAKEUS-FRONT_MOBILE">레포지토리</a>|<a href="https://takeus-front-mobile.vercel.app/">배포링크
+|22.02.17 ~ 진행 중|TakeUS_Mobile|개인|TAKEUS 서비스 Mobile 버전 |<a href="https://github.com/ingong/TAKEUS-FRONT_MOBILE">레포지토리</a>|<a href="https://takeus-front-mobile.vercel.app/">배포링크
 |21.07.15 ~ 22.02.21|TakeUS|팀|해외 유기견 이동 봉사자를 위한 플랫폼|<a href="https://github.com/TAKE-US/TAKEUS-FRONT">레포지토리</a>|<a href="https://take--us.web.app/">배포링크</a>|
 |21.10.25 ~ 21.12.03|Hyupup|팀|팀 프로젝트를 위한 협업툴 |<a href="https://github.com/boostcampwm-2021/WEB23-HyupUp">레포지토리</a>|서비스 종료|
 |21.02.25 ~ 21.04.02|Vote47|팀|서울 시장 재보궐 선거 후보자 추천 테스트|<a href="https://github.com/vote47-Developer/vote47">레포지토리</a>|서비스 종료|
@@ -43,7 +43,7 @@
 
 |교육기관명|과정명|기간|교육내용|
 |---|---|---|---|
-|<a href="https://www.connect.or.kr/">네이버 커넥트재단</a>|<a href="https://boostcamp.connect.or.kr/program_wm.html">부스트캠프 웹·모바일 6기 멤버십</a>|21.08.23 ~ 진행 중|학습 스프린트, 그룹 프로젝트|
+|<a href="https://www.connect.or.kr/">네이버 커넥트재단</a>|<a href="https://boostcamp.connect.or.kr/program_wm.html">부스트캠프 웹·모바일 6기 멤버십</a>|21.08.23 ~ 21.12.05|학습 스프린트, 그룹 프로젝트|
 |<a href="https://www.connect.or.kr/">네이버 커넥트재단</a>|<a href="https://boostcamp.connect.or.kr/program_wm.html">부스트캠프 웹·모바일 6기 챌린지</a>|21.07.19 ~ 21.08.13|자바스크립트, CS 지식, 릴레이 프로젝트|
 |<a href="https://www.connect.or.kr/">네이버 커넥트재단</a>|<a href="https://www.boostcourse.org/study-cs50-2nd/">CS50 코칭스터디 2기 </a>|20.12.28 ~ 21.02.15|메모리, 자료구조 등 CS 기본 지식|
 
