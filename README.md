@@ -6,7 +6,7 @@
 * Korea University / Psychology Major
 * Web front-end Enginner
 * [Resume](https://violet-router-2f7.notion.site/99d8dbb61e484ca4af273b90efa051e6)
-* [Portfolio](https://violet-router-2f7.notion.site/f56337fe856541a4992767a2470e7308)
+* [Portfolio](https://violet-router-2f7.notion.site/df558f29d45e4a57a1d9f9ba859f7517)
 
 ## 🛠️ Tech Stack 🛠️
 
