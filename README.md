@@ -64,4 +64,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ingong&count_private=true&show_icons=true&theme=buefy)
 
 ### BaekJoon
-[![solvedac badge](https://solvedac-readme-badge.herokuapp.com/api/v1/badge?user=insong1216)](https://github.com/2ykwang/solvedac-readme-badge)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=insong1216)](https://solved.ac/insong1216)
+
+ 
+ 
