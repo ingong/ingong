@@ -30,9 +30,9 @@
 
 |동아리명|기간|내용|
 |---|---|---|
-|<a href="http://sopt.org/wp/">SOPT</a>|21.03.02 ~ 21.07.30|JS, React 학습, 비개발직군과 협업을 통한 서비스 배포|
-|<a href="https://kucc.co.kr/">고려대학교 중앙 컴퓨터 동아리 KUCC</a>|21.03.02 ~ 21.07.30|JavaScript 및 알고리즘 학습|
-|<a href="https://pirogramming.com/">피로그래밍</a>|20.12.25 ~ 21.02.11|Django, JS, 웹어플리케션 배포|
+|<a href="http://sopt.org/wp/">SOPT</a>|21.03.02 - 21.07.30, 22.03.02 - Current|JS와 React 학습, 타 직군과 협업하여 서비스 출시 및 운영|
+|<a href="https://kucc.co.kr/">고려대학교 중앙 컴퓨터 동아리 KUCC</a>|21.03.02 - 21.07.30|JS 및 CS 지식 학습|
+|<a href="https://pirogramming.com/">피로그래밍</a>|20.12.25 - 21.02.11|JS와 Django 학습|
 
 <br>
  
