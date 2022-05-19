@@ -6,8 +6,8 @@
 
 |기간|프로젝트명|개인/팀|프로젝트 소개|Github|배포|
 |---|---|---|---|---|---|
-|2021.12.23 - 2022.05.02|SPA with Vanilla JavaScript|개인|학습한 지식을 적용하기 위한 프로젝트|<a href="https://github.com/ingong/SPA-with-Vanilla-JavaScript">Link</a>|-|
 |2022.02.17 - Current|TakeUS_Mobile|개인|TAKEUS 서비스 Mobile|<a href="https://github.com/ingong/TAKEUS-FRONT_MOBILE">Link</a>|<a href="https://takeus-front-mobile.vercel.app/">Link
+|2021.12.23 - 2022.05.02|SPA with Vanilla JavaScript|개인|학습한 지식을 적용하기 위한 프로젝트|<a href="https://github.com/ingong/SPA-with-Vanilla-JavaScript">Link</a>|-|
 |2021.10.25 - 2021.12.03|HyupUp|팀|팀 프로젝트를 위한 협업툴 |<a href="https://github.com/boostcampwm-2021/WEB23-HyupUp">Link</a>|종료|
 |2021.07.15 - 2022.02.28|TakeUS|팀|해외 유기견 이동 봉사자를 위한 플랫폼|<a href="https://github.com/TAKE-US/TAKEUS-FRONT">Link</a>|<a href="https://take--us.web.app/">Link</a>| 
 |2021.02.25 - 2021.04.02|Vote47|팀|서울 시장 재보궐 선거 후보자 추천 테스트|<a href="https://github.com/vote47-Developer/vote47">Link</a>|종료|
