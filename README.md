@@ -1,2 +1,2 @@
 ## Profile
-Hello I'm insonglee
+I'm insong.lee
